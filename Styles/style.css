@@ -447,3 +447,23 @@ textarea{
     border: none;
     border-radius: 15px;
 }
+
+.container-7 {
+    background-color: #0c1335;
+    width: 100%;
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-7 > .copy {
+    color: #fff;
+    text-align: right;
+    margin-right: 70%;
+}
+
+i {
+ font-size: 2rem;
+    color: #fff;
+}
