@@ -9,7 +9,7 @@
 }
 
 body {
-    width: 100vw;
+    width: 99vw;
     height: 100vh;
 }
 
@@ -162,8 +162,8 @@ header > .nabvar > .logo > img {
      background-image: url(../Assets/images/Wave.svg);
     background-position:bottom;
     background-size:280em;
-    background-repeat: no-repeat; */
-    display: flex;
+    background-repeat: no-repeat; 
+    display:flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
