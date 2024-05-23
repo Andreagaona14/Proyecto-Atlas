@@ -165,25 +165,32 @@ header > .nabvar > .logo > img {
     justify-content: space-around;
 }
 .container-2 > .container > .title3 > h3 {
+    position: relative;
+    top: 30px;
     font-size: 2rem;
     text-align: center;
+     left: -500px;
 }
 
 .container-2 > .container > .img1 {
-    /* float: right; */
-    margin-left: 40rem;
-    position: relative;
-    top: -15rem;
+        /* float: right; */
+        margin-left: 20rem;
+        position: relative;
+        top: -8rem;
 }
 
 .container-2 > .container > .parrafo1 {
-    margin-top: 30px;
+    margin-top: 40px;
+    position: relative;
+    top: 30px;
+    left: -500px;
 }
 
 .container-3 > .img2 {
     position: relative;
-    top: -15rem;
+    top: -20rem;
     margin-left: 10rem;
+    left: -200px;
 }
 
 .container-2 {
